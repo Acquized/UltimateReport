@@ -1,6 +1,8 @@
 # UltimateReport
 ![Build](https://img.shields.io/travis/Acquized/UltimateReport.svg?style=flat-square) ![License](https://img.shields.io/github/license/Acquized/UltimateReport.svg?style=flat-square)   ![Downloads](https://img.shields.io/github/downloads/Acquized/UltimateReport/total.svg?style=flat-square)  
-
+  
+**THIS PROJECT HAS BEEN DEPRECATED. READ MORE ABOUT IT HERE: https://www.spigotmc.org/resources/deprecated-ultimatereport.11364/**  
+  
 UltimateReport tries to be a simple and easy to use BungeeCord Report/Ticket Plugin which contains many features for Server Managing. It allows User to report rule-breaks with just one command and Staff Members to live in time see the report.  
   
 ## Documentation
